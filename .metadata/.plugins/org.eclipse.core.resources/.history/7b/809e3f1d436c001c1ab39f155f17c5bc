@@ -1,0 +1,16 @@
+package project01;
+
+public class MainClass {
+	public static void main(String[] args) {
+		//nanda
+		System.out.println("오늘의 기온은 10도 입니다");
+		System.out.printf("오늘의 기온은 %d도 입니다\n", 10);
+		
+		int a = 10;
+		System.out.printf("오늘의 기온은 a도 입니다\n"); 
+		System.out.printf("오늘의 기온은 %d도 입니다", a);
+
+
+	}
+}		
+

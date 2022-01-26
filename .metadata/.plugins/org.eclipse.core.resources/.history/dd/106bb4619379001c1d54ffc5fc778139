@@ -1,0 +1,15 @@
+package january20;
+
+import java.util.Scanner;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+		Scanner A = new Scanner (System.in);
+		int a=A.nextInt();
+		int b=A.nextInt();
+		
+		System.out.println(a+b);
+
+	}
+}

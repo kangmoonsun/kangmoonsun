@@ -1,0 +1,22 @@
+package january20;
+
+import java.util.Scanner;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+			Scanner a = new Scanner(System.in);
+			double i = a.nextInt();
+			double j = a.nextInt();
+			System.out.println(i+j);
+			System.out.println(i-j);
+			System.out.println(i*j);
+			System.out.println(String.format("%.1f", i/j));
+			System.out.println(i%j);
+
+
+	}
+}
+
+
+	

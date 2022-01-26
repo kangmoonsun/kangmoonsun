@@ -1,0 +1,11 @@
+package project01;
+
+public class MainClass {
+	public static void main(String[] args) {
+		//nanda
+		System.out.println("Good\tmorning");
+		System.out.println("Good\n\nmorning");
+		System.out.println("Good\'morning\'");
+		System.out.println("Good\"morning\"");
+	}
+}

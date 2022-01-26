@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="project01.Testpjt"/>
+    <fullyQualifiedTypeName name="project01.ChildClass"/>
+    <fullyQualifiedTypeName name="report.ObjectClass"/>
+    <fullyQualifiedTypeName name="week10.ParentClass"/>
+    <fullyQualifiedTypeName name="week10.ChildClass"/>
+    <fullyQualifiedTypeName name="january14.InterfaceB"/>
+    <fullyQualifiedTypeName name="january14.InterfaceA"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
+    <fullyQualifiedTypeName name="january19.MainClass"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
