@@ -6,8 +6,7 @@ public class Main {
 			Student A = new Student("James", 5000);
 			Student B = new Student("Tomas", 10000);
 			
-			
-
+			Bus bus100 = new Bus(100);
 			
 	}
 
