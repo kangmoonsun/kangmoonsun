@@ -1,6 +1,0 @@
-package january23;
-
-public class SingleLinkedList<T> {
-	
-	
-}
