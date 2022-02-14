@@ -1,3 +1,4 @@
+Refactoring.savealleditors=true
 content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="project01.Testpjt"><rhs name\="project01.Testpjt"/></lhs><lhs name\="project01.ChildClass"><rhs name\="project01.ChildClass"/></lhs><lhs name\="report.ObjectClass"><rhs name\="report.ObjectClass"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs></history>
 content_assist_number_of_computers=12
 content_assist_proposals_background=255,255,255
